@@ -1,14 +1,14 @@
 # Hi, I'm Hiroyuki 👋
 
-データ分析・機械学習を学んでいます。学んだことは手を動かして、リポジトリにまとめています。
+I'm learning data analysis and machine learning, and I build hands-on projects to practice what I learn.
 
-## 取り組んでいること
-- 📊 Kaggle Learn でデータ分析・機械学習を学習中
-- 🐍 Python(pandas / scikit-learn / matplotlib)
-- 🔬 大学院での研究(実験データの解析)
+## What I'm working on
+- 📊 Learning data analysis and machine learning through Kaggle Learn
+- 🐍 Python (pandas, scikit-learn, matplotlib)
+- 🔬 Analyzing experimental data in my graduate research
 
 ## Repositories
-成果物ができたら、README つきでここに追加していきます。
+I'll add projects here, each with a README, as I finish them.
 
 ## Contact
 GitHub: [@3at0Hir0](https://github.com/3at0Hir0)
